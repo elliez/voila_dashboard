@@ -1,0 +1,6 @@
+Follow approach in https://python-packaging.readthedocs.io/en/latest/minimal.html
+
+To get egg:
+Cd this directory
+run in terminal: 			python setup.py bdist_egg 
+Output .egg file can be found in subfolder \dist
